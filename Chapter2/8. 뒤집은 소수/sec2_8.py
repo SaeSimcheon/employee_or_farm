@@ -14,7 +14,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 
 >>> def rev(x):
 	x=str(x)
-	xx=0
+	xx='0'
 	for i in range(len(x)):
 		xx+=x[len(x)-1-i]
 	xx=int(xx)
