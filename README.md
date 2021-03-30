@@ -9,3 +9,5 @@
   
   ## -jupyter을 통하여 구문의 각 구간별 시간 계산할 것.
   [참고](https://velog.io/@log327/Jupyter-Notebook%EC%97%90%EC%84%9C-Magic-Command-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+  ## -> 다음 모임 4월 6일 화요일 chapter3
