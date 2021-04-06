@@ -11,7 +11,7 @@
   ### -jupyter을 통하여 구문의 각 구간별 시간 계산할 것.
   [참고](https://velog.io/@log327/Jupyter-Notebook%EC%97%90%EC%84%9C-Magic-Command-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
-## 0406 chapter2
+## 0406 chapter3
   ### break -> 이중 반복문에서 반복문 하나만 나가짐
   
   ### pass vs continue -> https://wlstnans.tistory.com/101
