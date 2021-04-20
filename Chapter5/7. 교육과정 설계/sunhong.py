@@ -15,3 +15,6 @@ for i in range(n):
         print("#{} YES".format(i+1))
     else:
         print("#{} NO".format(i+1))
+
+## order: [수업설계.index(v) for v in 필수과목]
+## 제대로 설계했다면 order==sorted(order) => yes
