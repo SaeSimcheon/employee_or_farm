@@ -22,8 +22,6 @@ print(max(dy))
 
 ## 수열처럼 순서 안바뀌게 풀어서 틀린 40점짜리
 
-## 40점, 어디가 틀렸는지 모르겠다
-
 import sys
 #sys.stdin=open('in1.txt','r')
 n=int(sys.stdin.readline())
